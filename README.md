@@ -1,1 +1,1 @@
-This is easy quote generator based on PHP and Bootstrap 5. The only function available on site is include a button. Pressing the button causes generating random quote from MySQL database. Site is available on this url: https://generator-cytatow.000webhostapp.com
+This is easy quote generator based on PHP and Bootstrap 5. The only function available on site is include a button. Pressing the button causes generating random quote from MySQL database. Site is available on  url: https://generator-cytatow.000webhostapp.com
